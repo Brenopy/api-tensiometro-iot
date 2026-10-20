@@ -4,6 +4,13 @@ Sistema de monitoramento em tempo real da tensão matricial e umidade do solo. O
 
 ---
 
+## Visualização do Hardware (Protótipo)
+
+Abaixo é apresentado o circuito com o ESP32 e o módulo HX710B em bancada:
+<p align="center">
+  <img src="images/esquema-protoboard.jpeg" alt="Circuito ESP32 e HX710B" width="600px">
+</p>
+
 ## Arquitetura da Solução
 
 Arquitetura do fluxo de dados:
